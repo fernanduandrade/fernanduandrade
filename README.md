@@ -1,12 +1,11 @@
-## Hey, I'm Fernando 👋  
+### Hey, I'm Fernando 👋  
 
-Hi I'm Fernando and I don't know how I got here but I'll figure out how this place works also I'm a enthusiastic for new tech and a back-end dev.
+🎓 Currently I'm an Information Systems student focusing on backend development
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernanduandrade&show_icons=true&theme=synthwave)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanduandrade&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+🙍‍♂️ I'm a enthusiastic for new tech and love meeting new places.
 
-
-## How to reach me 📪
+### How to reach me 📪
 
 - Linkedin: https://www.linkedin.com/in/fernanduandrade 👨‍💼
-- Twitter: https://twitter.com/FernanduAndrade 🐦
+- Twitter: https://twitter.com/fernanduandrade 🐦
 - Email: onanduandrade@gmail.com ✉️
