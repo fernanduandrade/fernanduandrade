@@ -4,6 +4,8 @@
 
 🙍‍♂️ I'm a enthusiastic for new tech and love meeting new places.
 
+💜 I'm a proud member of the best community He4rt.
+
 ### How to reach me 📪
 
 - Linkedin: https://www.linkedin.com/in/fernanduandrade 👨‍💼
