@@ -11,3 +11,6 @@
 - Linkedin: https://www.linkedin.com/in/fernanduandrade 👨‍💼
 - Twitter: https://twitter.com/fernanduandrade 🐦
 - Email: onanduandrade@gmail.com ✉️
+
+
+![](https://komarev.com/ghpvc/?username=fernanduandrade)
