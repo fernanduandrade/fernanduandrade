@@ -2,7 +2,7 @@
 
 🎓 I'm an Information Systems student.
 
-🙍‍♂️ I'm an enthusiastic about backend development, love new tech and love meeting new places.
+🙍‍♂️ I'm an enthusiastic about backend development. My currently stack is .Net core, vue.js, typescript. love new tech and love meeting new places.
 
 💜 I'm a proud member and moderator of the best community [He4rt](https://github.com/he4rt).
 
