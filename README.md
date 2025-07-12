@@ -7,7 +7,6 @@
 ### How to reach me 📪
 
 - Linkedin: https://www.linkedin.com/in/fernanduandrade 👨‍💼
-- Twitter: https://twitter.com/fernanduandrad3 🐦
 - Email: onanduandrade@gmail.com ✉️
 
 
