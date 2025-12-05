@@ -21,9 +21,10 @@
 ### 📬 Let's Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/fernanduandrade) 👨‍💼  
-- 📧 Email: luizfernandoandradedev@gmail.com  
+- 📧 Email: fernandu.contact@gmail.com  
 - [GitHub](https://github.com/fernanduandrade)
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=fernanduandrade)
+
